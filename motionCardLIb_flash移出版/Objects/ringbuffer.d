@@ -1,0 +1,9 @@
+.\objects\ringbuffer.o: motionCard\ringbuffer.c
+.\objects\ringbuffer.o: motionCard\MotionCard.h
+.\objects\ringbuffer.o: motionCard\ringbuffer.h
+.\objects\ringbuffer.o: motionCard\calculate.h
+.\objects\ringbuffer.o: motionCard\Bspline.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\ringbuffer.o: motionCard\posSystem.h
+.\objects\ringbuffer.o: motionCard\SpeedPlaning.h

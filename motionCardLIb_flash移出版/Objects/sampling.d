@@ -1,0 +1,10 @@
+.\objects\sampling.o: motionCard\Sampling.c
+.\objects\sampling.o: motionCard\Sampling.h
+.\objects\sampling.o: motionCard\MotionCard.h
+.\objects\sampling.o: motionCard\calculate.h
+.\objects\sampling.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\sampling.o: motionCard\ringBuffer.h
+.\objects\sampling.o: motionCard\Bspline.h
+.\objects\sampling.o: motionCard\posSystem.h
+.\objects\sampling.o: motionCard\flash.h
+.\objects\sampling.o: motionCard\SpeedPlaning.h

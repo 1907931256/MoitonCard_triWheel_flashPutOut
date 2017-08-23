@@ -1,0 +1,9 @@
+.\objects\pathfollowing.o: motionCard\pathFollowing.c
+.\objects\pathfollowing.o: motionCard\pathFollowing.h
+.\objects\pathfollowing.o: motionCard\calculate.h
+.\objects\pathfollowing.o: motionCard\MotionCard.h
+.\objects\pathfollowing.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\pathfollowing.o: motionCard\ringBuffer.h
+.\objects\pathfollowing.o: motionCard\Bspline.h
+.\objects\pathfollowing.o: motionCard\posSystem.h
+.\objects\pathfollowing.o: motionCard\Move.h
